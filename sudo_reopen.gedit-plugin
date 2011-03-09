@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=sudo_reopen
+IAge=2
+Name=Sudo Re-open
+Description=Re-open current file as root
+Authors=Elijah Rutschman <elijahr@gmail.com>
+Copyright=Copyright © 2011 Elijah Rutschman
+Website=http://github.com/elijahr/gedit-sudo-reopen
